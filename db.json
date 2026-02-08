@@ -11,4 +11,7 @@
     "8103582805:AAE0ORst53hNqjZSwp8Ey6To3HaHMiso59k",
     "7997349473:AAGB9LbVRMXwvcgHNuXSs6AoCadXWkdN0CQ"
   ]
+
+  "users": [
+    { "username": "admin", "password": "YWRtaW4xMjM=" }
 }
