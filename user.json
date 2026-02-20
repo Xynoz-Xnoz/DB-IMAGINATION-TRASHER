@@ -8,5 +8,10 @@
     "username": "Limbad",
     "password": "1",
     "role": "reseller"
+  },
+  {
+    "username": "fatz",
+    "password": "1",
+    "role": "reseller"
   }
 ]
