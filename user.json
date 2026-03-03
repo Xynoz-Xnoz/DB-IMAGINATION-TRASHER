@@ -18,5 +18,10 @@
     "username": "muksin",
     "password": "muksin",
     "role": "owner"
+  },
+  {
+    "username": "zan",
+    "password": "zan",
+    "role": "owner"
   }
 ]
